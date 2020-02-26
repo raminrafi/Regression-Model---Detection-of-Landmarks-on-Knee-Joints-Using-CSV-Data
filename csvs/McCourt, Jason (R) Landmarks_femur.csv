@@ -1,14 +1,14 @@
 landmark,x, y, z
-PCLOrigin,-73.53,33.70,433.95
-femoralCenter,-88.84,12.11,405.63
-greaterTrochanter,-138.86,29.44,831.99
-hipCenter,-90.63,3.51,824.89
-lateralCondyle,-111.06,23.39,399.39
-lateralEpicondyle,-132.06,26.58,426.41
-lateralPosteriorCondyle,-112.88,54.95,423.49
-medialCondyle,-58.28,18.94,398.13
-medialEpicondyle,-42.43,12.70,428.25
-medialPosteriorCondyle,-56.60,50.61,425.10
-medialSulcus,-42.32,18.14,425.72
-midfemurCenter,-113.74,5.46,623.12
-whitesideReference,-90.97,-9.12,421.53
+hipCenter,-94.5379,-74.8869,983.5191
+greaterTrochanter,-139.3666,-51.9971,998.7441
+femoralCenter,-165.33810,-93.64280,529.99355
+whitesideReference,-166.05370,-113.51465,544.00360
+lateralCondyle,-187.71285,-78.25270,525.92860
+medialCondyle,-134.28095,-89.33665,517.56845
+lateralPosteriorCondyle,-179.97480,-46.72205,549.36140
+medialPosteriorCondyle,-126.18860,-61.13370,539.61850
+midfemurCenter,-163.42610,-96.42860,591.00000
+PCLOrigin,-146.90890,-77.60000,546.13050
+lateralEpicondyle,-200.80200,-69.50920,555.24200
+medialSulcus,-118.06490,-91.58490,543.43490
+medialEpicondyle,-117.29965,-97.27955,546.24620
