@@ -1,0 +1,9 @@
+In file
+Hollings, Edwina (L) Landmarks_femur.csv
+femCMPImportREF,86.74,19.61,383.66,0.82,-6.94,-177.83,space213
+Fox, Toni (L) Landmarks_femur.csv
+femCMPImportREF,62.45,35.42,425.23,-1.14,-8.19,-178.62,space213
+Khoshbouei, Najmiyeh (L) Landmarks_femur.csv
+femCMPImportREF,101.616711655003,27.1383965481159,1070.26344588911,1.60219680146477,-3.4660481101005,-174.13486200442,space213
+Kelly, Alan (L) Landmarks_femur.csv
+femCMPImportREF,103.36,20.28,403.70,1.71,-5.82,-172.77,space213
