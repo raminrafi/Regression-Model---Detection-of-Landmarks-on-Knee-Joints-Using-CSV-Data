@@ -1,0 +1,14 @@
+landmark,x, y, z
+hipCenter,89.10,134.71,-189.48
+greaterTrochanter,133.77,150.26,-183.05
+femoralCenter,125.04,156.64,-545.47
+whitesideReference,122.47,137.70,-537.57
+lateralCondyle,147.34,160.11,-551.84
+medialCondyle,104.18,163.20,-554.11
+lateralPosteriorCondyle,147.78,193.90,-526.02
+medialPosteriorCondyle,102.05,195.55,-527.93
+midfemurCenter,125.50,135.72,-362.11
+PCLOrigin,114.06,176.98,-522.54
+lateralEpicondyle,163.23,165.54,-526.48
+medialSulcus,81.63,168.16,-529.94
+medialEpicondyle,82.90,162.76,-527.35
