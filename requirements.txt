@@ -7,3 +7,7 @@ pydicom==1.4.2
 pre-commit==2.1.1
 matplotlib==3.2.0
 ipyvolume==0.5.2
+plotly==4.5.4
+scikit-image==0.16.2
+ipywidgets==7.5.1
+chart-studio==1.0.0
